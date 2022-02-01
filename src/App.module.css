@@ -1,0 +1,17 @@
+.App {
+  height: 100vh;
+  position: relative;
+  overflow:scroll
+}
+
+.box {
+  width:20rem;
+  height:20rem;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+  background-color: yellowgreen;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  cursor: pointer;
+}
